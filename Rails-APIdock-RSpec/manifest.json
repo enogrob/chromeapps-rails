@@ -1,0 +1,17 @@
+{
+  "name": "RSpec",
+  "description": "Access RSpec",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://apidock.com/rspec/browse"
+    ],
+    "launch": {
+      "web_url": "http://apidock.com/rspec/browse"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

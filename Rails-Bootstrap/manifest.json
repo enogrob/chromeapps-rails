@@ -1,0 +1,17 @@
+{
+  "name": "Bootstrap",
+  "description": "Access Bootstrap",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://getbootstrap.com/"
+    ],
+    "launch": {
+      "web_url": "http://getbootstrap.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

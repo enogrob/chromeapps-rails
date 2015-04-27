@@ -1,0 +1,17 @@
+{
+  "name": "Cloud9",
+  "description": "Access Cloud9",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://c9.io/dashboard.html"
+    ],
+    "launch": {
+      "web_url":"https://c9.io/dashboard.html"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

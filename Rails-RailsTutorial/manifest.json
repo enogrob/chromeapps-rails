@@ -1,0 +1,17 @@
+{
+  "name": "RailsTutorial",
+  "description": "Access RailsTutorial",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.railstutorial.org/"
+    ],
+    "launch": {
+      "web_url":"https://www.railstutorial.org/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

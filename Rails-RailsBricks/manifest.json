@@ -1,0 +1,17 @@
+{
+  "name": "RailsBricks",
+  "description": "Access RailsBricks",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://railsbricks.net/"
+    ],
+    "launch": {
+      "web_url":"http://railsbricks.net/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Rails API",
+  "description": "Access Rails API",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://apidock.com/rails/browse"
+    ],
+    "launch": {
+      "web_url": "http://apidock.com/rails/browse"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

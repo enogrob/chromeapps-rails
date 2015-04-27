@@ -1,0 +1,17 @@
+{
+  "name": "Capistrano",
+  "description": "Access Capistrano",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.capistranorb.com/"
+    ],
+    "launch": {
+      "web_url": "http://www.capistranorb.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

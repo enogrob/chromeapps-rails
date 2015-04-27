@@ -1,0 +1,17 @@
+{
+  "name": "RailsServer",
+  "description": "Access RailsServer",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://127.0.0.1:3000"
+    ],
+    "launch": {
+      "web_url": "http://127.0.0.1:3000"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

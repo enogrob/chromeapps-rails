@@ -1,0 +1,17 @@
+{
+  "name": "Rails Talk",
+  "description": "Acess Rails Talk",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://groups.google.com/forum/#!forum/rubyonrails-talk"
+    ],
+    "launch": {
+      "web_url": "https://groups.google.com/forum/#!forum/rubyonrails-talk"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

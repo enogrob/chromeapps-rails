@@ -1,0 +1,17 @@
+{
+  "name": "Railscasts",
+  "description": "Access Railscasts",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://railscasts.com/"
+    ],
+    "launch": {
+      "web_url": "http://railscasts.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

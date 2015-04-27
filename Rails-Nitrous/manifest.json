@@ -1,0 +1,17 @@
+{
+  "name": "Nitrous",
+  "description": "Access Nitrous",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://lite.nitrous.io/"
+    ],
+    "launch": {
+      "web_url":"https://lite.nitrous.io/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
