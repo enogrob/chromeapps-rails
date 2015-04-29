@@ -26,7 +26,7 @@ drwxr-xr-x   21 enogrob  staff   714B Apr 26 23:40 ChromeApps_Rails/
 -rw-r--r--    1 enogrob  staff   139B Apr 26 23:35 today_data.yaml
 
 $ tree -L 1 ChromeApps_Rails/
-ChromeApps_Rails
+ChromeApps_Rails/
 ├── README.md
 ├── Rails-API
 ├── Rails-APIdock-RSpec
@@ -34,6 +34,7 @@ ChromeApps_Rails
 ├── Rails-Capistrano
 ├── Rails-Cloud9
 ├── Rails-GoogleGroups
+├── Rails-Heroku
 ├── Rails-Homepage
 ├── Rails-Nitrous
 ├── Rails-RailsBricks
@@ -46,7 +47,7 @@ ChromeApps_Rails
 ├── Rails-w3schools
 └── images
 
-15 directories, 1 file
+18 directories, 1 file
 $
 ```
 
