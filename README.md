@@ -39,6 +39,7 @@ ChromeApps_Rails/
 ├── Rails-Nitrous
 ├── Rails-RailsBricks
 ├── Rails-RailsConf2014
+├── Rails-RailsConf2015
 ├── Rails-RailsGuides
 ├── Rails-RailsServer
 ├── Rails-RailsTutorial

@@ -1,0 +1,17 @@
+{
+  "name": "RailsConf2015",
+  "description": "Access RailsConf2015",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.youtube.com/playlist?list=PLE7tQUdRKcybf82pLlMnPZjAMMMV5DJsK"
+    ],
+    "launch": {
+      "web_url": "https://www.youtube.com/playlist?list=PLE7tQUdRKcybf82pLlMnPZjAMMMV5DJsK"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
