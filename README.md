@@ -45,10 +45,11 @@ ChromeApps_Rails/
 ├── Rails-RailsTutorial
 ├── Rails-RailsWikipedia
 ├── Rails-Railscasts
+├── Rails-GoRails
 ├── Rails-w3schools
 └── images
 
-18 directories, 1 file
+20 directories, 1 file
 $
 ```
 

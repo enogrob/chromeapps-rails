@@ -1,0 +1,17 @@
+{
+  "name": "GoRails",
+  "description": "Access GoRails",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://gorails.com/"
+    ],
+    "launch": {
+      "web_url": "https://gorails.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
