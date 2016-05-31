@@ -1,0 +1,17 @@
+{
+  "name": "JSFiddle",
+  "description": "Access JSFiddle",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://jsfiddle.net/"
+    ],
+    "launch": {
+      "web_url": "http://jsfiddle.net/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
