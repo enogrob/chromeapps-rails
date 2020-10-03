@@ -1,0 +1,17 @@
+{
+  "name": "Boring Rails",
+  "description": "Access Boring Rails",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://boringrails.com/articles"
+    ],
+    "launch": {
+      "web_url": "https://boringrails.com/articles"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

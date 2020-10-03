@@ -1,0 +1,17 @@
+{
+  "name": "RailsDiscuss",
+  "description": "Access RailsDiscuss",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://discuss.rubyonrails.org/"
+    ],
+    "launch": {
+      "web_url": "https://discuss.rubyonrails.org/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

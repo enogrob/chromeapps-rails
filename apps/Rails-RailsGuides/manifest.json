@@ -1,0 +1,17 @@
+{
+  "name": "RailsGuides",
+  "description": "Access RailsGuides",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://guides.rubyonrails.org/"
+    ],
+    "launch": {
+      "web_url": "http://guides.rubyonrails.org/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

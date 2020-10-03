@@ -1,0 +1,17 @@
+{
+  "name": "Webpack",
+  "description": "Access Webpack",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://webpack.js.org"
+    ],
+    "launch": {
+      "web_url": "https://webpack.js.org"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

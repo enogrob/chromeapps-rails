@@ -1,0 +1,17 @@
+{
+  "name": "MiniTest",
+  "description": "Access MiniTest",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://docs.seattlerb.org/minitest"
+    ],
+    "launch": {
+      "web_url": "http://docs.seattlerb.org/minitest"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

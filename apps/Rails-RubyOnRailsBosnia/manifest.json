@@ -1,0 +1,17 @@
+{
+  "name": "RailsBA",
+  "description": "Access RailsBA",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.rubyonrails.ba/"
+    ],
+    "launch": {
+      "web_url": "https://www.rubyonrails.ba/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

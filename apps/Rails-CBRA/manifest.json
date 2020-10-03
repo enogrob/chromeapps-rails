@@ -1,0 +1,17 @@
+{
+  "name": "CBRA",
+  "description": "Access CBRA",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://cbra.info"
+    ],
+    "launch": {
+      "web_url": "http://cbra.info"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

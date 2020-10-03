@@ -1,0 +1,17 @@
+{
+  "name": "Open Source Rails",
+  "description": "Access Open Source Rails",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.opensourcerails.com/"
+    ],
+    "launch": {
+      "web_url": "http://www.opensourcerails.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
