@@ -1,0 +1,17 @@
+{
+  "name": "Phoenix API",
+  "description": "Access Phoenix API",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://hexdocs.pm/phoenix/"
+    ],
+    "launch": {
+      "web_url": "http://hexdocs.pm/phoenix/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

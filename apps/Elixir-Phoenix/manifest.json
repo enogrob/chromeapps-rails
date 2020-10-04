@@ -1,0 +1,17 @@
+{
+  "name": "Phoenix",
+  "description": "Access Phoenix",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.phoenixframework.org/"
+    ],
+    "launch": {
+      "web_url": "http://www.phoenixframework.org/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

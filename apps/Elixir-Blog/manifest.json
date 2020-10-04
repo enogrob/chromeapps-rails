@@ -1,0 +1,17 @@
+{
+  "name": "Elixir Blog",
+  "description": "Access Elixir Blog",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://elixir-lang.org/blog/"
+    ],
+    "launch": {
+      "web_url": "http://elixir-lang.org/blog/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

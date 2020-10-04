@@ -1,0 +1,17 @@
+{
+  "name": "Erlang",
+  "description": "Access Erlang",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.erlang.org/"
+    ],
+    "launch": {
+      "web_url": "http://www.erlang.org/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Kerl",
+  "description": "Acess Kerl",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://github.com/kerl/kerl"
+    ],
+    "launch": {
+      "web_url": "https://github.com/kerl/kerl"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

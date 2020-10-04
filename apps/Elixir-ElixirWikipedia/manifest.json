@@ -1,0 +1,17 @@
+{
+  "name": "Elixir Wikipedia",
+  "description": "Access Elixir Wikipedia",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://en.wikipedia.org/wiki/Elixir_(programming_language)"
+    ],
+    "launch": {
+      "web_url":"http://en.wikipedia.org/wiki/Elixir_(programming_language)"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

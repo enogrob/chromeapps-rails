@@ -1,0 +1,17 @@
+{
+  "name": "Hex",
+  "description": "Access Hex",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://hex.pm"
+    ],
+    "launch": {
+      "web_url": "https://hex.pm"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

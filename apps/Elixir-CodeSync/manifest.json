@@ -1,0 +1,17 @@
+{
+  "name": "CodeSync",
+  "description": "Access CodeSync",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://codesync.global"
+    ],
+    "launch": {
+      "web_url": "https://codesync.global"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Elixir API",
+  "description": "Access Elixir API",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://elixir-lang.org/docs/stable/"
+    ],
+    "launch": {
+      "web_url": "http://elixir-lang.org/docs/stable/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

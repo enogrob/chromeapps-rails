@@ -1,0 +1,17 @@
+{
+  "name": "Elixir",
+  "description": "Access Elixir",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://elixir-lang.org/"
+    ],
+    "launch": {
+      "web_url": "http://elixir-lang.org/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

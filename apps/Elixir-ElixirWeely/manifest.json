@@ -1,0 +1,17 @@
+{
+  "name": "Elixir Weekly",
+  "description": "Access Elixir Weekly",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://elixirweekly.net/#latest-issue"
+    ],
+    "launch": {
+      "web_url": "https://elixirweekly.net/#latest-issue"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

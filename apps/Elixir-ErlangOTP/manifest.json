@@ -1,0 +1,17 @@
+{
+  "name": "Erlang OTP",
+  "description": "Access Erlang OTP",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.erlang.org/doc/"
+    ],
+    "launch": {
+      "web_url": "http://www.erlang.org/doc/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

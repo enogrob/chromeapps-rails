@@ -1,0 +1,17 @@
+{
+  "name": "Kiex",
+  "description": "Acess Kiex",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://github.com/taylor/kiex"
+    ],
+    "launch": {
+      "web_url": "https://github.com/taylor/kiex"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

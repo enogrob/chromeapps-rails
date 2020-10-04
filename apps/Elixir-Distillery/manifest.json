@@ -1,0 +1,17 @@
+{
+  "name": "Distillery",
+  "description": "Access Distillery",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://github.com/bitwalker/distillery"
+    ],
+    "launch": {
+      "web_url": "https://github.com/bitwalker/distillery"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

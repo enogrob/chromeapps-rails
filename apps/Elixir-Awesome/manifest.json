@@ -1,0 +1,17 @@
+{
+  "name": "Elixir Awesome",
+  "description": "Access Elixir Awesome",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://github.com/h4cc/awesome-elixir"
+    ],
+    "launch": {
+      "web_url": "https://github.com/h4cc/awesome-elixir"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
