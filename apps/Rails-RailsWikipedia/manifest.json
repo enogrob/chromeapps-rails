@@ -1,0 +1,17 @@
+{
+  "name": "Rails Wikipedia",
+  "description": "Access Rails Wikipedia",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://en.wikipedia.org/wiki/Ruby_on_Rails"
+    ],
+    "launch": {
+      "web_url":"http://en.wikipedia.org/wiki/Ruby_on_Rails"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

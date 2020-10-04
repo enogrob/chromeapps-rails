@@ -1,0 +1,17 @@
+{
+  "name": "RailsBytes",
+  "description": "Access RailsBytes",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://railsbytes.com/"
+    ],
+    "launch": {
+      "web_url":"https://railsbytes.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

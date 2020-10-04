@@ -1,0 +1,17 @@
+{
+  "name": "Trailblazer",
+  "description": "Access Trailblazer",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://trailblazer.to"
+    ],
+    "launch": {
+      "web_url": "http://trailblazer.to"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

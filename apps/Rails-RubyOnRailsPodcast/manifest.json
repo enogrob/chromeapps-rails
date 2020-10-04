@@ -1,0 +1,17 @@
+{
+  "name": "RubyOnRails Podcast",
+  "description": "Access RubyOnRails Podcast",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://5by5.tv/rubyonrails"
+    ],
+    "launch": {
+      "web_url": "http://5by5.tv/rubyonrails"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

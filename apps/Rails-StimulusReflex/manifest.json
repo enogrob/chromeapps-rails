@@ -1,0 +1,17 @@
+{
+  "name": "StimulusReflex",
+  "description": "Access StimulusReflex",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://docs.stimulusreflex.com/"
+    ],
+    "launch": {
+      "web_url": "https://docs.stimulusreflex.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

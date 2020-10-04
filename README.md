@@ -15,11 +15,35 @@ As we can see a subdirectory is created for each Rails app.
 
 ```bash
 $ ls -la
-
+total 400
+drwxr-xr-x@   8 enogrob  staff    272 Oct  4 02:43 .
+drwxr-xr-x@ 298 enogrob  staff  10132 Oct  4 02:41 ..
+drwxr-xr-x   13 enogrob  staff    442 Oct  4 02:46 .git
+-rw-r--r--    1 enogrob  staff      5 Oct  4 02:42 .gitignore
+-rw-r--r--@   1 enogrob  staff      0 Oct  4 02:43 Icon?
+-rw-r--r--@   1 enogrob  staff    856 Oct  4 02:44 README.md
+drwxr-xr-x   19 enogrob  staff    646 Oct  4 02:42 apps
+drwxr-xr-x    4 enogrob  staff    136 Oct  4 02:46 images
 
 $ tree -L 1 apps/
 apps
-
+├── Rails-API
+├── Rails-BoringRails
+├── Rails-CBRA
+├── Rails-EverydayRails
+├── Rails-Homepage
+├── Rails-MiniTest
+├── Rails-OpenSourceRails
+├── Rails-RSpec
+├── Rails-RailsBytes
+├── Rails-RailsDiscuss
+├── Rails-RailsGuides
+├── Rails-RailsWikipedia
+├── Rails-RubyOnRailsBosnia
+├── Rails-RubyOnRailsPodcast
+├── Rails-StimulusReflex
+├── Rails-Trailblazer
+└── Rails-Webpack
 
 17 directories, 0 files
 $

@@ -1,0 +1,17 @@
+{
+  "name": "RSpec",
+  "description": "Access RSpec",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://rspec.info"
+    ],
+    "launch": {
+      "web_url": "https://rspec.info"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

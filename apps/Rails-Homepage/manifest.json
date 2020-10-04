@@ -1,0 +1,17 @@
+{
+  "name": "Ruby on Rails",
+  "description": "Acess Ruby on Rails",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://rubyonrails.org/"
+    ],
+    "launch": {
+      "web_url": "http://rubyonrails.org/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
