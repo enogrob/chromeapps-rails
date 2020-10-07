@@ -50,11 +50,9 @@ $
 ```
 
 ### 2. Open Chrome with the following url:
-In order to load the `Chrome Apps` for Rails, check `Developer Mode` and press `Load unpacked extension...` to load each App selecting its corresponding directory inside `apps` e.g. `Rails-Homepage`, and then repeat that for the wanted apps.
+In order to load the `Chrome Apps` for Rails, check `Developer Mode` and press `Load unpacked extension...` to load each App selecting its corresponding directory inside `apps` e.g. `Rails-Homepage`, and then repeat that for the wanted apps. Or just drag and drop the app folder on the [Extensions page](chrome://extensions).
 
-```
-chrome://extensions/
-```
+[chrome://extensions](chrome://extensions)
 
 ### 3. After load the Chrome Apps wanted for Rails, Chrome will look like the screenshot below:
 
