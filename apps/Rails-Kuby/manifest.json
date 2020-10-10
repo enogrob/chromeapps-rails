@@ -1,0 +1,17 @@
+{
+  "name": "Kuby",
+  "description": "Access Kuby",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://getkuby.io/"
+    ],
+    "launch": {
+      "web_url": "https://getkuby.io/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
