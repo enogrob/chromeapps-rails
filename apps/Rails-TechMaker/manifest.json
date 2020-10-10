@@ -1,0 +1,17 @@
+{
+  "name": "TechMaker",
+  "description": "Access TechMaker",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.techmaker.tv/"
+    ],
+    "launch": {
+      "web_url": "https://www.techmaker.tv/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
