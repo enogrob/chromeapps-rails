@@ -1,0 +1,17 @@
+{
+  "name": "Upcase",
+  "description": "Access Upcase",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://thoughtbot.com/upcase"
+    ],
+    "launch": {
+      "web_url": "https://thoughtbot.com/upcase"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
