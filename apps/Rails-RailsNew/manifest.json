@@ -1,0 +1,17 @@
+{
+  "name": "RailsNew",
+  "description": "Access RailsNew",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://railsnew.io/"
+    ],
+    "launch": {
+      "web_url": "https://railsnew.io/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
