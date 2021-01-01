@@ -1,0 +1,17 @@
+{
+  "name": "Hotwire",
+  "description": "Access Hotwire",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://hotwire.dev/"
+    ],
+    "launch": {
+      "web_url": "https://hotwire.dev/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
