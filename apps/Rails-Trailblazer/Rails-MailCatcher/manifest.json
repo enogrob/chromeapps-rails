@@ -1,0 +1,17 @@
+{
+  "name": "MailCatcher",
+  "description": "Access MailCatcher",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://localhost:1080"
+    ],
+    "launch": {
+      "web_url": "http://localhost:1080"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

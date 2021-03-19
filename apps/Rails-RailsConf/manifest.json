@@ -1,0 +1,17 @@
+{
+  "name": "RailsConf",
+  "description": "Access RailsConf",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://railsconf.org"
+    ],
+    "launch": {
+      "web_url": "https://railsconf.org"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
