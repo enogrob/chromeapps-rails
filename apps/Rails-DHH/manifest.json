@@ -5,10 +5,10 @@
   "manifest_version": 2,
   "app": {
     "urls": [
-      "http://rubyonrails.org"
+      "https://world.hey.com/dhh"
     ],
     "launch": {
-      "web_url": "http://rubyonrails.org"
+      "web_url": "https://world.hey.com/dhh"
     }
   },
   "icons": {
