@@ -1,0 +1,17 @@
+{
+  "name": "Gumroad",
+  "description": "Access Gumroad",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://gumroad.com"
+    ],
+    "launch": {
+      "web_url": "https://gumroad.com"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
