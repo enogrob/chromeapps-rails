@@ -1,0 +1,17 @@
+{
+  "name": "Pry",
+  "description": "Access Pry",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://pry.github.io/"
+    ],
+    "launch": {
+      "web_url": "https://pry.github.io/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

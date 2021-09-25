@@ -1,0 +1,17 @@
+{
+  "name": "RVM",
+  "description": "Access RVM",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://rvm.io/"
+    ],
+    "launch": {
+      "web_url": "https://rvm.io/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

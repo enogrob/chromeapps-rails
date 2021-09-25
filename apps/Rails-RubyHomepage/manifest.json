@@ -1,0 +1,17 @@
+{
+  "name": "RubyMRI",
+  "description": "Access RubyMRI",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.ruby-lang.org/en/"
+    ],
+    "launch": {
+      "web_url":"http://www.ruby-lang.org/en/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

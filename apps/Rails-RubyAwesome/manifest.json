@@ -1,0 +1,17 @@
+{
+  "name": "Awesome Ruby",
+  "description": "Access Awesome Ruby",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://ruby.libhunt.com/newsletter/archive"
+    ],
+    "launch": {
+      "web_url": "https://ruby.libhunt.com/newsletter/archive"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

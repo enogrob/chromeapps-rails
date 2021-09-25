@@ -29,7 +29,7 @@ drwxr-xr-x   19 enogrob  staff    646 Oct  4 02:42 apps
 drwxr-xr-x    4 enogrob  staff    136 Oct  4 02:46 images
 
 $ tree -L 1 apps/
-apps
+pps
 ├── Rails-API
 ├── Rails-BoringRails
 ├── Rails-CBRA
@@ -42,6 +42,7 @@ apps
 ├── Rails-MailCatcher
 ├── Rails-MiniTest
 ├── Rails-OpenSourceRails
+├── Rails-Pry
 ├── Rails-RSpec
 ├── Rails-RailsBump
 ├── Rails-RailsBytes
@@ -50,15 +51,23 @@ apps
 ├── Rails-RailsGuides
 ├── Rails-RailsNew
 ├── Rails-RailsWikipedia
+├── Rails-RubyAPI
+├── Rails-RubyAwesome
+├── Rails-RubyCentral
+├── Rails-RubyGems
+├── Rails-RubyHomepage
 ├── Rails-RubyOnRailsBosnia
 ├── Rails-RubyOnRailsPodcast
+├── Rails-RubyRepl
+├── Rails-RubyWeekly
+├── Rails-RVM
 ├── Rails-StimulusReflex
 ├── Rails-TechMaker
 ├── Rails-Trailblazer
 ├── Rails-Upcase
 └── Rails-Webpack
 
-27 directories, 0 files
+36 directories, 0 files
 
 # in order to open Files in "Linux" to drag the App folders if wanted.
 $ cd apps

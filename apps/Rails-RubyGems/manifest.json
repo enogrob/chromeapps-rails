@@ -1,0 +1,17 @@
+{
+  "name": "RubyGems",
+  "description": "Access RubyGems",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://rubygems.org/"
+    ],
+    "launch": {
+      "web_url":"http://rubygems.org/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
