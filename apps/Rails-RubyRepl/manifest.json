@@ -1,0 +1,17 @@
+{
+  "name": "Ruby Repl",
+  "description": "Ruby Repl",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://riju.codes/ruby"
+    ],
+    "launch": {
+      "web_url": "https://riju.codes/ruby"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

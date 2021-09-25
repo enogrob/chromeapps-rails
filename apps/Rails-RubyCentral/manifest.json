@@ -1,0 +1,17 @@
+{
+  "name": "RubyCentral",
+  "description": "Access RubyCentral",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://rubycentral.org/"
+    ],
+    "launch": {
+      "web_url": "http://rubycentral.org/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

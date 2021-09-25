@@ -1,0 +1,17 @@
+{
+  "name": "Ruby Weekly",
+  "description": "Access Ruby Weekly",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://rubyweekly.com/latest"
+    ],
+    "launch": {
+      "web_url": "https://rubyweekly.com/latest"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
