@@ -1,0 +1,17 @@
+{
+  "name": "Ruby Thursday",
+  "description": "Access Ruby Thursday",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.youtube.com/channel/UCgbzly83EZoSVjBIf9sNw5A"
+    ],
+    "launch": {
+      "web_url": "https://www.youtube.com/channel/UCgbzly83EZoSVjBIf9sNw5A"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
