@@ -1,0 +1,17 @@
+{
+  "name": "Foreman",
+  "description": "Foreman",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://github.com/ddollar/foreman"
+    ],
+    "launch": {
+      "web_url": "https://github.com/ddollar/foreman"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
